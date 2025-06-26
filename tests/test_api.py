@@ -1,4 +1,4 @@
-from src.api.fbr_client import FBRClient
+from api.fbr_client import FBRClient
 import sys
 from pathlib import Path
 
